@@ -1,0 +1,15 @@
+EC5-S2-7F-EW,S2-7F-E-A091,316101,Hari Kishan Dande,sd-ds fdsf-fsd f-fsd f,fed gdsfh,gdgd,OCCUPIED,dfgf
+EC5-S2-7F-EW,S2-7F-E-A092,316102,erstd sdrtfhg sdrf,sef sdg,fed gdsfh,fkes dbgkjsb gh,OCCUPIED,sgdhfjgkhlbvcjxzdxhfchv
+EC5-S2-7F-EW,S2-7F-E-A093,316103,Hari Kishan Dande,dafseg-af-dff-sdf,Chandini Jain,Manish Jain,OCCUPIED,ntg
+EC5-S2-7F-EW,S2-7F-E-A094,316104,Hari Kishan Dande,sd-ds fdsf-fsd f-fsd f,fed gdsfh,gdgd,OCCUPIED,dfgf
+EC5-S2-7F-EW,S2-7F-E-A096,316106,Hari Kishan Dande,dafseg-af-dff-sdf,Chandini Jain,Manish Jain,OCCUPIED,ntg
+EC5-S2-7F-EW,S2-7F-E-A097,316107,Hari Kishan Dande,sd-ds fdsf-fsd f-fsd f,fed gdsfh,gdgd,OCCUPIED,dfgf
+EC5-S2-7F-EW,S2-7F-E-A098,316108,erstd sdrtfhg sdrf,sef sdg,fed gdsfh,fkes dbgkjsb gh,OCCUPIED,sgdhfjgkhlbvcjxzdxhfchv
+EC5-S2-7F-EW,S2-7F-E-A101,316201,erstd sdrtfhg sdrf,sef sdg,fed gdsfh,fkes dbgkjsb gh,OCCUPIED,sgdhfjgkhlbvcjxzdxhfchv
+EC5-S2-7F-EW,S2-7F-E-A099,3365545,erstd sdrtfhg sdrf,dafseg-af-dff-sdf, ef g,fkes dbgkjsb gh,OCCUPIED,rtygkjl
+EC5-S2-7F-EW,S2-7F-E-A086,234523,Vasivullah ,sef sdg,fed gdsfh,fkes dbgkjsb gh,OCCUPIED,strtdhf
+EC5-S2-7F-EW,S2-7F-E-A095,336558,Vasivullah ,sd-ds fdsf-fsd f-fsd f,fed gdsfh,f frg,OCCUPIED,rtygkjl
+EC5-S2-7F-EW,S2-7F-E-A064,-,others,-,-,-,OCCUPIED,This is occupied by UK
+EC5-S2-7F-EW,S2-7F-E-A102,-,others,-,-,-,OCCUPIED,US actually
+EC5-S2-7F-EW,S2-7F-E-A039,-,port_issue,-,-,-,OCCUPIED,-
+EC5-S2-7F-EW,S2-7F-E-A084,316222,Hari Kishan Dande,dafseg-af-dff-sdf,Chandini Jain,Mark Peter Robinson,OCCUPIED,

@@ -1,0 +1,2 @@
+EC5-S2-7F-EW,users_info/capitalone_uk/EC5-S2-7F-EW.txt
+testing_ODC,users_info/capitalone_us/testing_ODC.txt
