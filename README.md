@@ -15,7 +15,7 @@ For the same I have come-up with this solution which will minimize the work effo
 <b><h4>Below is the app specification:</b></h4>
 <dl>
   <dt>App name      : </dt>
-  <dd>Capital One seat tracker.</dd>
+  <dd>Seat tracker.</dd>
   <dt>Developed in :</dt>
   <dd>PHP , Bootstrap-3.0 framework( HTML5, CSS3, Javascript ) and AJAX.</dd>
   <dt>Database        :</dt>
